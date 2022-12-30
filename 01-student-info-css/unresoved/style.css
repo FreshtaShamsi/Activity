@@ -1,0 +1,54 @@
+body {
+
+}
+header {
+
+}
+
+h1 {
+background-color: #e96016;
+color: white;
+padding: 6px;
+text-align: center;
+
+}
+
+h2 {
+color: blue;
+}
+
+a {
+ color: red;
+ text-decoration: underline;
+}
+
+.container {
+ 
+}
+
+#main-info,
+#contact,
+#student-img {
+	float: left;
+	position: relative;
+		left: 90px;
+}
+
+#main-info {}
+
+#contact {
+	
+	position: absolute;
+	left: 900px;
+	color: blue;
+}
+
+img {
+	border-radius:50%;
+}
+p{
+	margin-top:-150px;
+	margin-left: 210px;
+	color: blue;
+}
+}
